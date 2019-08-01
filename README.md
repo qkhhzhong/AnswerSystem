@@ -55,9 +55,9 @@ AnswerSystem答题系统，分管理员和用户 登录。
        登录的密码请查看数据库文件。
        
        
-      ![Image](https://github.com/qkhhzhong/Img-folder/blob/master/answer-img/1.PNG)
-      ![Image](https://github.com/qkhhzhong/Img-folder/blob/master/answer-img/2.PNG)
-      ![Image](https://github.com/qkhhzhong/Img-folder/blob/master/answer-img/3.PNG)
-      ![Image](https://github.com/qkhhzhong/Img-folder/blob/master/answer-img/4.PNG)
+      ![image](https://github.com/qkhhzhong/Img-folder/blob/master/answer-img/1.PNG)
+      ![image](https://github.com/qkhhzhong/Img-folder/blob/master/answer-img/2.PNG)
+      ![image](https://github.com/qkhhzhong/Img-folder/blob/master/answer-img/3.PNG)
+      ![image](https://github.com/qkhhzhong/Img-folder/blob/master/answer-img/4.PNG)
        
        
