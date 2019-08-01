@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50018
 File Encoding         : 65001
 
-Date: 2019-08-01 15:15:02
+Date: 2019-08-01 15:50:35
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -239,5 +239,5 @@ CREATE TABLE `userinfo` (
 -- Records of userinfo
 -- ----------------------------
 INSERT INTO `userinfo` VALUES ('1', '李白', '162012223', 'qkhh');
-INSERT INTO `userinfo` VALUES ('2', '111', '111', '111');
-INSERT INTO `userinfo` VALUES ('5', '222', '222', '222');
+INSERT INTO `userinfo` VALUES ('2', '哪吒', '111', '111');
+INSERT INTO `userinfo` VALUES ('5', '太右', '222', '222');
